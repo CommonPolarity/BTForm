@@ -1,5 +1,5 @@
-// Program: BTForm
-// Description: A basic markup language inspired by HTML made for SaySomething+.
+// Program: BTFormInterpreter
+// Description: A basic interpreter for a basic markup language inspired by HTML made for SaySomething+.
 package BTForm;
 import java.util.*;
 
